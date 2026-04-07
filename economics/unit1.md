@@ -52,4 +52,3 @@ Shift of PPC can also be non-parallel
 
 ## Ceteris Paribus
 Assume all else remains equal/constant
-
