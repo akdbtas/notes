@@ -28,7 +28,7 @@ As price of a good increases, the quantity supplied decreases. Supply is the wil
 
 ## Long-Run vs Short-Run
 | Long Run                     | Short Run                 |
-| ---------------------------- | ------------------------- |
+| ---------------------------: | :------------------------ |
 | All Inputs/FOPs are variable | At least one FOP is fixed |
 
 Note: Most assumptions are only taken/valid in the short-run.
@@ -335,4 +335,55 @@ Free riders are individuals who use a public good without contributing to its co
     - Would probably cost more to the govt
     - Needs strict govt monitoring as well
 
-# 2.10 Market Failure - Asymmetric Information
+# 2.10: Market Failure - Asymmetric Information
+Asymmetric information is when buyers and sellers do not have equal access to information. 
+
+## Adverse Selection
+When one party has more information about the quality of a product than the other. 
+
+### When sellers know more than buyers
+eg: Unsafe medicines being sold, bad quality items being sold, etc.
+
+This results in overallocation of resources to this good/service. 
+
+Also possible for supplier-induced demand. Eg: a doctor selectively revealing information that causes the patient to want more tests or treatments to be done. This would not exist if the patient had equal access to information.
+
+Govt. Responses
+- **Regulation:** *Passing laws to standardise quality. Difficulty in enforcing due to time and cost*
+- **Provision of Information:** *Directly providing information to consumers or forcing producers to do so. Example in Europe many countries provide fee schedules to ensure quality. However, might not be able to trust the govt, and will never be 100% effective*
+- **Licensure:** *Mandating a basic license if you want to be a supplier, such as doctors or teachers*
+
+Private Responses
+- **Screening:** *Initiative taken by the consumer to get more information about their purchase from the internet or other sources*
+- **Signalling:** *Building trust with consumer by showing signs of trustworthiness. Examples include giving warranties, making service records available, or subconscious methods as well. One issue is it might just be manipulation or misleading information*
+
+### When buyers know more than sellers
+eg: Medical insurance. Once again causes the underallocation of resources as sellers reduce risks. 
+
+Note: A deductible is how much of the cost you have to bear yourself, and the rest is taken care of by insurance
+
+Govt. Responses
+- **Provision of Services:** *The government could provide the service in question in equal amounts to everyone* 
+
+Private Responses
+- **Screening:** *Initiative taken by the producer to get more information about the buyers, such as insurance providers assuming that those who choose higher-cost policies with low deductibles are in critical condition. This can be flawed due to other biases (like how low-income people will only be able to afford low-cost policies)*
+
+## Moral Hazard
+When a party takes a risk but does not face the consequences of their risks (they are transferred to another party)
+
+Generally arises when a buyer of insurance changes their behaviour (becomes more relaxed) after purchasing insurance, working against the seller of insurance.
+
+Many believe the 2008 recession / financial crisis was caused by moral hazard. Big banks took insane risks thinking that the government would support them if they fell (and they did). 
+
+One solution is insurance companies have deductibles for the purchaser to still pay so there is still a risk for them. 
+
+In the financial sector this is with government regulation. 
+
+
+# 2.11: Market Failure - Market Power
+
+# 2.12: The Market's Inability to Achieve Equity
+Inequality persists due to
+- Price and Ownership of FOPs, and skills is highly unequal
+
+Inequality is not a market failure, as market failure is defined as inability to achieve allocative efficiency or reduced social surplus.
